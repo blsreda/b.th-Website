@@ -1,0 +1,1563 @@
+* {
+	list-style-type: none;
+}
+ .menu {
+	display: none;
+}
+.phons {
+	display: none;
+}
+.mob .mobile-list {
+	display: none;
+}
+nav ul{
+	display: flex;
+
+	justify-content: space-between;
+	
+position: absolute;
+width: 30%;
+
+left: 40%;
+top: 4%;
+list-style-type: none;
+
+	
+
+}
+nav .about {
+	color: #F05830;
+}
+nav a:hover {
+	color: #236E57;
+}
+nav a {
+	font-family: 'ABeeZee';
+	font-style: italic;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 180%;
+	/* or 32px */
+	color: #0D0D0D;
+
+	
+	letter-spacing: 0.016em;
+	text-decoration: none;
+	
+	
+
+
+}
+
+header  .logo:hover {
+	color: #F05830;
+}
+header  .logo {
+	font-family: 'Abhaya Libre Medium';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	line-height: 47px;
+	
+	color: #236E57;
+	text-decoration: none;
+	/* size logo */
+	position: absolute;
+	width: 30%;
+	
+	left: 10%;
+	top: 4%;
+	
+}
+
+header .btn:hover {
+
+	background-color: #236E57;
+	border-color: #236E57;
+}
+/* button */
+header .btn {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 24px 36px;
+	gap: 8px;
+	
+	position: absolute;
+	width: 9%;
+	height: 2%;
+	right: 8%;
+	top: 4%;
+	color: white;
+	border-color: #F05830;
+	background: #F05830;
+	border-radius: 5px;
+
+}
+	
+/* first page home */
+
+.firstp1 h1 {
+
+position: absolute;
+width: 608.85px;
+
+left: 10%;
+top: 20% ;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 56px;
+line-height: 130%;
+/* or 73px */
+
+letter-spacing: 0.016em;
+
+color: #0D0D0D;
+
+}
+
+.firstp1 p {
+	position: absolute;
+width: 541.9px;
+height: 90px;
+left: 10%;
+top: 40% ;
+
+font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.016em;
+
+color: #807D7D;
+}
+.firstp1 .bg {
+	position: absolute;
+
+right: 0%;
+top: 37%;
+}
+
+.firstp1 .phone {
+	position: absolute;
+	right: 5%;
+top: 25%;
+}
+.firstp1 .btn:hover{
+	background-color: #236E57;
+	border-color: #236E57;
+}
+.firstp1 .btn {
+	display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 24px 48px;
+gap: 8px;
+
+position: absolute;
+
+left: 10%;
+top: 55% ;
+right: 79%;
+border-color: #F05830;
+color: white;
+
+background: #F05830;
+border-radius: 5px;
+}
+
+.firstp1 .play {
+position: absolute;
+
+left: 24%;
+top: 55% ;
+right: 79%;
+}
+.firstp1 a:hover {
+	color: #236E57;
+}
+.firstp1 a {
+	position: absolute;
+
+left: 27.7%;
+top: 57% ;
+
+	width: 96px;
+height: 27px;
+text-decoration: none;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+letter-spacing: 0.016em;
+
+color: #0D0D0D;
+
+}
+
+/* numbers */
+.numbers h2 {
+	position: absolute;
+width: 86px;
+height: 60px;
+position: absolute;
+
+left: 10%;
+top: 60% ;
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.016em;
+
+color: #236E57;
+
+}
+.numbers p {
+	position: absolute;
+width: 104px;
+height: 32px;
+
+position: absolute;
+
+left: 10%;
+top: 68% ;
+
+font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 180%;
+/* or 32px */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.016em;
+white-space: nowrap;
+
+color: #807D7D;
+}
+.numbers .sec {
+	left: 20%;
+}
+.numbers .secp {
+	left: 20%;
+}
+
+.secound .Recommended {
+	display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+
+position: absolute;
+
+align-items: center;
+left: 22%;
+
+top: 102%;
+
+}
+
+.secound .logos {
+	display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 141px;
+
+position: absolute;
+align-items: center;
+left: 10%;
+
+top: 105%;
+
+}
+
+.secound h2{
+	width: 412.06px;
+height: 72px;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 150%;
+/* identical to box height, or 72px */
+
+text-align: center;
+letter-spacing: 0.016em;
+
+color: #0D0D0D;
+position: absolute;
+left: 40%;
+
+top: 120%;
+
+}
+
+.secound p{
+	width: 653.99px;
+height: 90px;
+
+font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.016em;
+
+color: #807D7D;
+position: absolute;
+left: 34%;
+
+
+top: 130%;
+}
+
+.secound .banks {
+
+
+position: absolute;
+
+left: 12%;
+top: 140%;
+
+}
+
+.secound .visa {
+	
+	position: absolute;
+
+left: 16%;
+top: 190%;
+}
+.secound .bg2 {
+	
+position: absolute;
+
+left: 0px;
+top: 2458px;
+
+}
+.secound .laptop {
+	
+position: absolute;
+
+left: 0;
+top: 2395.16px;
+}
+
+.secound .crypto {
+	position: absolute;
+
+left: 4%;
+top: 2509.16px;
+}
+.secound .hlaptop {
+	
+width: 590.38px;
+height: 144px;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 150%;
+/* or 72px */
+
+letter-spacing: 0.016em;
+
+color: #0D0D0D;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.secpages h1 {
+	width: 590.38px;
+height: 144px;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 150%;
+/* or 72px */
+
+letter-spacing: 0.016em;
+
+color: #0D0D0D;
+position: absolute;
+
+left: 50%;
+top: 2509.16px;
+
+}
+
+.secpages p {
+	width: 581.2px;
+height: 160px;
+
+font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 180%;
+/* or 32px */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.016em;
+
+color: #807D7D;
+position: absolute;
+
+left: 50%;
+top: 2709.16px;
+}
+.secpages .bth3:hover {
+	background-color: #236E57;
+	border-color: #236E57;
+	color: white;
+}
+.secpages .bth3 {
+	box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 24px 48px;
+gap: 8px;
+
+position: absolute;
+width: 316px;
+height: 69px;
+left: 50%;
+top: 300%;
+color: #F05830;
+
+border: 1px solid #F05830;
+border-radius: 5px;
+}
+
+.threepaes .b3 {
+	position: absolute;
+
+right: 0%;
+top: 3250.6px;
+
+}
+.threepaes .mobile {
+	position: absolute;
+
+	right: 5%;
+	top: 3150.6px;
+}
+.threepaes h1 {
+	width: 590.38px;
+height: 144px;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 150%;
+/* or 72px */
+
+letter-spacing: 0.016em;
+
+color: #0D0D0D;
+position: absolute;
+right: 50%;
+	top: 3150.6px;
+}
+.threepaes p {
+	width: 499.81px;
+height: 96px;
+	font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 180%;
+/* or 32px */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.016em;
+
+color: #807D7D;
+position: absolute;
+left: 19%;
+	top: 3330.6px;
+}
+.threepaes .playstore {
+	display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+gap: 8px;
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 19%;
+top: 380%;
+
+background: #0D0D0D;
+border: 2px solid #B8B8BA;
+border-radius: 6px;
+}
+.threepaes .apple {
+	
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+gap: 8px;
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 30%;
+top: 380%;
+
+background: #0D0D0D;
+border: 2px solid #B8B8BA;
+border-radius: 6px;
+}
+
+footer  {
+	position: absolute;
+	width: 100%;
+	height: 410.04px;
+	left: 0%;
+	top: 3844.16px;
+	
+	background: url(img/bg\ footer.png), #236E57;
+
+}
+footer h2 {
+	position: absolute;
+	left: 40%;
+	
+
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 150%;
+/* identical to box height, or 72px */
+
+text-align: center;
+letter-spacing: 0.016em;
+
+color: #FFFFFF;
+
+}
+footer p {
+	position: absolute;
+	width: 655.85px;
+	height: 90px;
+	left: 35%;
+	top: 25%;
+   
+
+	font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.016em;
+
+color: #E6EFEC;
+
+}
+footer .btn {
+	box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: first baseline;
+padding: 24px 48px;
+gap: 8px;
+
+position: absolute;
+width: 656px;
+height: 69px;
+left: 35%;
+background-color: ;
+top: 70%;
+
+border: 1px solid #FFF8F1;
+border-radius: 5px;
+}
+footer .bttn {
+	
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 24px 48px;
+	gap: 8px;
+	color: white;
+	position: absolute;
+	width: 207px;
+	height: 69px;
+	left: 65%;
+	top: 70%;
+border-color: #F05830;
+	background: #F05830;
+	border-radius: 0px 5px 5px 0px;
+}
+
+.end h2 {
+	
+position: absolute;
+
+left: 45%;
+top: 440%;
+text-align: center;
+
+font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 36px;
+background-color: white;
+/* or 180% */
+color: #807D7D;
+
+
+}
+.end a {
+	text-decoration: none;
+	color: #F05830;
+}
+
+
+* {
+	scroll-behavior: smooth                            ;
+}
+/* laptop */
+@media screen and (max-width: 1366px) and (min-width: 800px) {
+   /* first text for laptop  */
+   .firstp1 h1 {
+	left: 10%;
+top: 14% ;
+   }
+   .firstp1 .btn {
+	top: 65%;
+	padding: 24px 15px;
+   }
+   .firstp1 .play {
+	top: 65%;
+   }
+   .firstp1 a {
+	top: 68%;
+	left: 29%;
+   }
+   .numbers h2 {
+  top: 70%;
+
+   }
+   .numbers p {
+	top: 80%;
+   }
+   .firstp1 .phone {
+	right: 1%;
+   }
+   .secound .Recommended {
+	 left: 10%;
+	 top: 130%;
+   }
+   .secound .logos {
+
+   zoom: 70%;
+   top: 135%;
+   
+   }
+   .secound h2 {
+	top: 150%;
+	left: 35%;
+   }
+   .secound p {
+	top: 170%;
+	left: 27%;
+   }
+   .secound .banks {
+   zoom: 70%;
+   top: 180%;
+   }
+   .secound .visa  {
+	zoom: 70%;
+	top: 230%;
+   }
+   .secound .bg2 {
+	zoom: 80%;
+   }
+   .secound .laptop {
+	zoom: 80%;
+   }
+   .secound .crypto {
+	zoom: 80%;
+   }
+   .secpages h1 {
+	zoom: 80%;
+   }
+   .secpages p {
+	zoom: 80%;
+   }
+   .secpages .bth3 {
+	top: 374%;
+   }
+   .threepaes .b3 {
+	zoom: 80%;
+   }
+   .threepaes .mobile {
+	zoom: 80%;
+   }
+   .threepaes h1  {
+	zoom: 80%;
+   }
+   .threepaes p {
+	zoom: 80%;
+	left: 15%;
+   }
+   .threepaes .playstore {
+	top: 450%;
+	zoom: 80%;
+   }
+   .threepaes .apple {
+	top: 450%;
+	zoom: 80%;
+   }
+   footer {
+	zoom: 80%;
+   }
+   .end h2 {
+ top: 550%;
+ left: 40%;
+}
+}
+.icon {
+	display: none;
+}
+
+@media screen and (max-width: 768px) {
+
+	
+	.secound {
+		display: none;
+	}
+	.phons {
+		display: block;
+	}
+	header  .logo {
+		position: absolute;
+width: 50px;
+height: 28px;
+left: 24px;
+top: 44px;
+
+	}
+	.mob .icon  {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: flex-end;
+		padding: 4.63968px;
+		gap: 5.8px;
+		
+		position: absolute;
+		width: 32px;
+		height: 32px;
+		right: 24px;
+		top: 44px;
+		
+
+	}
+	.mob a {
+		font-family: 'ABeeZee';
+	  font-style: italic;
+	  font-weight: 400;
+	  font-size: 18px;
+	  line-height: 180%;
+	  color: white;
+	  }
+	header ul  {
+		display: none;
+	}
+	header .btn {
+		display: none;
+	}
+	mob .mobile-list::before {
+
+	}
+   
+	.mob .mobile-list {
+		display: block;
+		border-radius: 22px;
+    
+    display: block;
+    font-size: x-small;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    white-space: pre;
+    background-color: #daeb44;
+	z-index: auto;
+
+
+	}
+
+	.firstp1 h1 {
+		font-family: 'Abhaya Libre Medium';
+		font-style: normal;
+		font-weight: 500;
+		font-size: 56px;
+		line-height: 130%;
+
+	}
+	.firstp1 {
+		display: none;
+	}
+header  h1 {
+	position: absolute;
+	height: 78.16px;
+	left: 6.4%;
+	right: 6.4%;
+	top: 99.38px;
+	
+	font-family: 'Abhaya Libre Medium';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 120%;
+	/* or 38px */
+	
+	text-align: center;
+	letter-spacing: 0.016em;
+	
+	color: #0D0D0D;
+}
+header p {
+	
+position: absolute;
+height: 63px;
+left: 12.59%;
+right: 12.59%;
+top: 193.2px;
+
+font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.016em;
+
+color: #807D7D;
+
+}
+.phons .bg {
+	display: block;
+position: absolute;
+width: 308px;
+height: 188.4px;
+right: 0px;
+top: 47%;
+
+}
+.phons .phonepic {
+	display: block;
+	position: absolute;
+height: 291.73px;
+left: 6.4%;
+right: 6.4%;
+top: 40%;
+}
+	.phons .play {
+		position: absolute;
+align-items: center;
+		top: 80%;
+		left: 25%;
+	}
+	.phons a {
+	
+		position: absolute;
+		text-align: center;
+				top: 82%;
+				left: 43%;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+letter-spacing: 0.016em;
+
+color: #0D0D0D;
+
+
+	}
+	.phons .btn {
+		/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 24px 48px;
+gap: 8px;
+top: 90%;
+
+width: 327px;
+height: 56px;
+
+background: #F05830;
+border-radius: 5px;
+	}
+	.numbers h2 {
+		top: 100%;
+		left: 60%;
+	}
+	.numbers p {
+		top: 110%;
+		left: 60%;
+	}
+	.secound .Recommended  {
+	  top: 130%;
+	}
+	.phons .Recommended2 {
+		position: absolute;
+		top: 130%;
+		left: 15%;
+	}
+	.phons .logoscoui {
+		position: absolute;
+		top: 140%;
+		left: 10%;
+	}
+ .phons .wwhy	 {
+	position: absolute;
+		top: 155%;
+		left: 10%;
+
+		font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 120%;
+/* or 38px */
+
+text-align: center;
+letter-spacing: 0.016em;
+
+color: #0D0D0D;
+}
+.phons .Parag {
+	position: absolute;
+	top: 165%;
+	left: 15%;
+	text-align: center;
+
+	font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.016em;
+
+color: #807D7D;
+}
+.phons .grpus {
+	position: absolute;
+	top: 185%;
+	align-items: center;
+	left: 24px;
+
+}
+.secpages {
+	display: none;
+}
+.threepaes {
+	display: none;
+}
+footer {
+	display: none;
+}
+.phons .grouup111:hover {
+	color: #236E57;
+	background-color: #236e57;
+}
+.phons .grouup111 {
+	position: absolute;
+	top: 330%;
+	right: 0%;
+}
+.phons .btn4 {
+	position: absolute;
+	top: 310%;
+	box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 24px 48px;
+gap: 8px;
+
+position: absolute;
+width: 327px;
+height: 56px;
+left: 15%;
+
+color: #F05830;
+border: 1px solid #F05830;
+border-radius: 5px;
+}
+.phons .how {
+	position: absolute;
+	top: 380%;
+	right: 0%;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 120%;
+/* or 38px */
+
+text-align: center;
+letter-spacing: 0.016em;
+
+color: #0D0D0D;
+}
+.pargrahk {
+	position: absolute;
+	top: 395%;
+	right: 0%;
+	font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.016em;
+
+color: #807D7D;
+
+}
+.end h2 {
+	display: none;
+}
+.grpuat112 {
+	position: absolute;
+	top: 430%;
+zoom: 1.4;
+	right: 0%;
+	
+	
+}
+.emailpic {
+	position: absolute;
+	top: 430%;
+
+	right: 0%;
+}
+.emailmob {
+	position: absolute;
+	top: 460%;
+	left: 19%;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+
+  /* Auto layout */
+  
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 24px 48px 24px 24px;
+  gap: 8px;
+  
+  position: absolute;
+  top: 458%;
+
+  right: 19%;
+background: transparent;
+  
+  border-radius: 5px;
+}
+.btnss {
+	display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 24px 48px;
+gap: 8px;
+
+position: absolute;
+width: 195px;
+height: 56px;
+left: 90px;
+top: 275.35px;
+
+background: #F05830;
+border-radius: 5px;
+
+	position: absolute;
+	left: 30%;
+	top: 469%;
+	width: 140px;
+height: 44px;
+}
+.xxx {
+	position: absolute;
+	top: 6%;
+	right: 5%;
+	z-index: 1;
+}
+
+/* .menuuu */
+/*
+/*
+!!! This demo is being refactored !!!
+
+-- add auto focus on the first item of the navigation when it is shown
+-- replace .menu:not(.menu_activated) .menu__list{  display: none; } to hidden
+-- use :is pseudo-class to simplify selectors 
+
+*/
+/*
+=====
+DEPENDENCES
+=====
+*/
+
+/* The component will reset button browser styles */
+
+.r-button{
+	--uirButtonBackgroundColor: var(--rButtonBackgroundColor, transparent);
+	--uirButtonPadding: var(--rButtonPadding, var(--rButtonPaddingTop, 0) var(--rButtonPaddingRight, 0) var(--rButtonPaddingBottom, 0) var(--rButtonPaddingLeft, 0));
+	--uirButtonBorderWidth: var(--rButtonBorderWidth, 0);
+	--uirButtonBorderStyle: var(--rButtonBorderStyle, solid);
+	--uirButtonBorderColor: var(--rButtonBorderColor, currentColor);
+	--uirButtonFontFamily: var(--rButtonFontFamily, inherit);
+	--uirButtonFontSize: var(--rButtonFontSize,  inherit);
+	--uirButtonColor: var(--rButtonColor);
+  
+	background-color: var(--uirButtonBackgroundColor);
+	padding: var(--uirButtonPadding);
+  
+	border-width: var(--uirButtonBorderWidth);
+	border-style: var(--uirButtonBorderStyle);
+	border-color: var(--uirButtonBorderColor);
+  
+	cursor: pointer;
+  
+	font-family: var(--uirButtonFontFamily);
+	font-size: var(--uirButtonFontSize);
+  }
+  
+  .r-button::-moz-focus-inner,
+  .r-button[type="button"]::-moz-focus-inner,
+  .r-button[type="reset"]::-moz-focus-inner,
+  .r-button[type="submit"]::-moz-focus-inner {
+	
+	/* Remove the inner border and padding in Firefox. */
+	
+	border-style: none;
+	padding: 0;
+  }
+  
+  /* The component will reset browser's styles of link */
+  
+  .r-link{
+	  --uirLinkDisplay: var(--rLinkDisplay, inline-flex);
+	  --uirLinkTextColor: var(--rLinkTextColor);
+	  --uirLinkTextDecoration: var(--rLinkTextDecoration, none);
+  
+	  display: var(--uirLinkDisplay) !important;
+	  color: var(--uirLinkTextColor) !important;
+	  text-decoration: var(--uirLinkTextDecoration) !important;
+  }
+  
+  /* The component will reset browser's styles of list */
+  
+  .r-list{
+	  --uirListPaddingLeft: var(--rListPaddingLeft, 0);
+	  --uirListMarginTop: var(--rListMarginTop, 0);
+	  --uirListMarginBottom: var(--rListMarginBottom, 0);
+	  --uirListListStyle: var(--rListListStyle, none);
+  
+	  padding-left: var(--uirListPaddingLeft) !important;
+	  margin-top: var(--uirListMarginTop) !important;
+	  margin-bottom: var(--uirListMarginBottom) !important;
+	  list-style: var(--uirListListStyle) !important;
+  }
+  
+  /* Basic styles of the hamburger component */
+  
+  .m-hamburger{  
+	--uiHamburgerThickness: var(--hamburgerThickness, 4px);
+  
+	display: var(--hamburgerDisplay, inline-flex);
+	width: var(--hamburgerWidth, 28px);
+	height: var(--hamburgerHeight, 20px);
+  
+	position: relative;
+  }
+  
+  .m-hamburger::before, 
+  .m-hamburger::after, 
+  .m-hamburger__label{
+	width: 100%;
+	height: var(--uiHamburgerThickness);
+	border-radius: var(--hamburgerBorderRadius, 5px);
+	background-color: var(--hamburgerBackgroundColor, currentColor);
+  
+	position: absolute;
+	left: 0;
+  }
+  
+  .m-hamburger::before, 
+  .m-hamburger::after{
+	content:"";
+  }
+  
+  .m-hamburger::before{
+	top: 0;
+  }
+  
+  .m-hamburger::after{
+	bottom: 0;
+  }
+  
+  .m-hamburger__label{
+	/* The calculation of middle hamburger button line position */
+	
+	top: calc(50% - calc(var(--uiHamburgerThickness) / 2));
+  }
+  
+  /* helper to hide elements that are available only for screen readers. */
+  
+  .screen-reader{
+	width: var(--screenReaderWidth, 1px) !important;
+	height: var(--screenReaderHeight, 1px) !important;
+	padding: var(--screenReaderPadding, 0) !important;
+	border: var(--screenReaderBorder, none) !important;
+  
+	position: var(--screenReaderPosition, absolute) !important;
+	clip: var(--screenReaderClip, rect(1px, 1px, 1px, 1px)) !important;
+	overflow: var(--screenReaderOverflow, hidden) !important;
+  }
+  
+  /*
+  =====
+  MENU STYLES
+  =====
+  */
+  
+  .menu{
+	--uiMenuCircleSize: var(--menuCircleSize, 6.25rem);
+	--uiMenuCircleOffset: var(--menuCircleOffset, 1rem);
+	--uiMenuCircleHeight: calc(var(--uiMenuCircleSize) / 2);  
+	--uiMenuCircleBackgroundColor: var(--menuCircleBackgroundColor, currentColor);
+  
+	--uiMenuHamburgerWidth: var(--menuHamburgerWidth, 1.75rem);
+	--uiMenuHamburgerHeight: var(--menuHamburgerHeight, 1.25rem);
+	
+	--rButtonPaddingTop: calc(var(--uiMenuCircleHeight) - var(--uiMenuHamburgerHeight) - var(--uiMenuCircleOffset));
+	
+	--hamburgerWidth: var(--uiMenuHamburgerWidth);
+	--hamburgerHeight: var(--uiMenuHamburgerHeight);
+	--hamburgerBackgroundColor: var(--menuHamburgerBackgroundColor, #fff);
+  
+	width: 100%;
+	
+	display: flex;
+	flex-direction: column;
+	align-items: center;  
+  
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: var(--menuZindex, 9998);
+  }
+  
+  .menu__nav{
+	box-sizing: border-box;
+	width: 100%;
+	height: 0;
+  
+	transition: opacity .2s ease-out;
+	opacity: 0;
+  
+	display: flex;
+	align-items: flex-end;
+	z-index: 2;
+  }
+  
+  .menu__list{
+	text-align: center;
+	width: 80%;
+	left: 1%;
+	position: absolute;
+
+	
+
+
+  
+	overflow-y: auto;
+	-webkit-overflow-scrolling: touch;
+  }
+  
+  .menu__toggle{
+	box-sizing: border-box;
+	width: var(--uiMenuCircleSize);
+	height: var(--uiMenuCircleHeight);
+	flex: none;
+  
+	position: relative;
+  }
+  
+  .menu__toggle::before{
+	/*
+	1. The font-size property is used to simplify calculations of the element's sizes and position
+	2. The negative value for the bottom property need for hiding half of circle. 
+	*/
+  
+	content: "";
+	width: 1em;
+	height: 1em;
+	font-size: var(--uiMenuCircleSize); /* 1 */
+  
+	background-color: var(--uiMenuCircleBackgroundColor);
+	border-radius: 50%;
+  
+	position: absolute;
+	bottom: -.5em; /* 2 */
+	left: calc(50% - .5em);
+	z-index: -1;
+  
+	will-change: width, height;
+	transition: transform .25s cubic-bezier(0.04, -0.1, 0.29, 0.98),
+				width .25s cubic-bezier(0.04, -0.1, 0.29, 0.98),
+				height .25s cubic-bezier(0.04, -0.1, 0.29, 0.98);
+  }
+  
+  /* styles of hamburger's animation */
+  
+  .m-hamburger::before, 
+  .m-hamburger::after, 
+  .m-hamburger__label{
+	transition-timing-function: ease;
+	transition-duration: .15s;  
+  }
+  
+  .m-hamburger::before, 
+  .m-hamburger::after{
+	transition-property: transform;
+  }
+  
+  .m-hamburger__label{
+	transition-property: transform, opacity;
+  }
+  
+  /*
+  =====
+  MENU STATES
+  =====
+  */
+  
+  .menu__toggle:focus{
+	outline: var(--menuHaburgerOutlineOWidth, 2px) solid var(--menuHaburgerOutlineColor);
+	outline-offset: var(--menuHaburgerOutlineOffset, 5px);
+  }
+  
+  .menu_activated{
+	height: 100%;
+  }
+  
+  .menu_activated .menu__nav{
+	flex-grow: 1;
+	opacity: 1;
+  
+	will-change: opacity;
+	transition-duration: .2s;
+	transition-delay: .3s;
+  }
+  
+  .menu_activated .menu__toggle::before{
+	width: 100vmax;
+	height: 100vmax;
+	transform: translate3d(-50vh, -50vh, 0) scale(5);
+	transition-duration: 1s;
+  }
+  
+  .menu:not(.menu_activated) .menu__list{
+	display: none;
+  }
+  
+  .menu_activated .m-hamburger::before{
+	top: 50%;
+	transform: translate3d(0, -50%, 0) rotate(45deg);
+  }
+  
+  .menu_activated .m-hamburger::after{
+	transform: translate3d(0, -50%, 0) rotate(135deg);
+	top: 50%;
+  }
+  
+  .menu_activated .m-hamburger__label{
+	transform: rotate(-45deg) translate3d(-.285em,-.3em, 0);
+	opacity: 0;
+  }
+  
+  /*
+  =====
+  SETTINGS
+  =====
+  */
+  
+  :root{
+	--colorWhite: #fff;
+	--colorMain: #236E57;
+	--menuCircleBackgroundColor: var(--colorMain);
+	--menuHamburgerBackgroundColor: var(--colorWhite);
+	--menuHaburgerOutlineColor: var(--colorMain);
+  }
+  
+  .menu_activated{
+	--menuHaburgerOutlineColor: var(--colorWhite);
+  }
+  
+  /*
+  =====
+  DEMO
+  =====
+  */
+  
+  body{
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	margin: 0;  
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Open Sans, Ubuntu, Fira Sans, Helvetica Neue, sans-serif;
+	font-size: 1rem;
+  }
+  
+  
+  
+  .menu__group{
+	--rLinkTextColor: var(--colorWhite);
+  
+	padding: .5rem 2rem; 
+	font-size: 2rem;
+	font-weight: 700;
+	text-transform: uppercase;
+  }
+  
+  .linktr{
+	order: -1;
+	padding: 1.75rem;
+	text-align: center;
+  }
+  
+  .linktr__goal{
+	background-color: rgb(209, 246, 255);
+	color: rgb(8, 49, 112);
+	box-shadow: rgb(8 49 112 / 24%) 0px 2px 8px 0px;
+	border-radius: 2rem;
+	padding: .5rem 1.25rem;
+  }
+  
+  @media (min-width: 1024px){
+	
+	.linktr{
+	  position: absolute; 
+	  right: 1rem; 
+	  bottom: 1rem;
+	}
+  }
+  .dmenu { 
+	display: flex;
+ 
+	align-items:;
+	background-color: ;
+	padding: 0px;
+	text-decoration: none;
+	color: #333;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 10px;
+	transition: all 0.3s ease;
+	display: inline-flex;
+
+	position: relative;
+    white-space: nowrap;
+  }
+}
+  
